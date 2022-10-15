@@ -7,7 +7,7 @@
 ------------------
 
 **News 🚀🚀**
-
+- [10/2022] We open sourced [a kaggle notebook](https://www.kaggle.com/code/simjeg/guie-a-zero-shot-solution) achieving 0.603 on the private LB in a zero shot manner (no data), leveraging CLIP ViT-H, GPT3 and a PCA 
 - [10/2022] The paper will be available by 17th October
 - [10/2022] 4th place solution! setting up this repo
 
