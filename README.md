@@ -33,8 +33,6 @@ We use code and pre-trained models from the amazing repo **[open_clip](https://g
 
 - [utilities.py](utilities.py) - General utilities!
 
-- Models are available at this link : https://www.kaggle.com/datasets/ivanaerlic/guiemodels
-
 ------------------
 
 ## Contact
