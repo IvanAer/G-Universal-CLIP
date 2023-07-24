@@ -6,7 +6,7 @@
 
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2210.11141)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=IvanAer/G-Universal-CLIP)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/simjeg/guie-a-zero-shot-solution/)
 
 [Marcos V. Conde](https://scholar.google.com/citations?user=NtB1kjYAAAAJ&hl=en), [Ivan Aerlic](https://www.kaggle.com/ivanaerlic), [Simon Jégou](https://www.kaggle.com/simjeg)
 
@@ -38,3 +38,13 @@ We use code and pre-trained models from the amazing repo **[open_clip](https://g
 ## Contact
 
 Feel free to contact us if you have suggestions/inquiries about this work: [marcos.conde-osorio@uni-wuerzburg.de](mailto:marcos.conde-osorio@uni-wuerzburg.de)  and [ivanaer@outlook.com](mailto:ivanaer@outlook.com) Please add "google challenge" in the email subject.
+
+```
+@article{conde2022general,
+  title={General image descriptors for open world image retrieval using vit clip},
+  author={Conde, Marcos V and Aerlic, Ivan and J{\'e}gou, Simon},
+  journal={arXiv preprint arXiv:2210.11141},
+  year={2022}
+}
+
+```
